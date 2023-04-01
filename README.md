@@ -23,9 +23,7 @@ https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakeg
 **chatgpt的提示词生成**：
 AIPRM for ChatGPT
 https://www.aiprm.com/
-内置了超多被验证过的实用聊天模板库：高仿人类写作，一键生成AI绘画关键词等等等等。：
-chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related?hl=zh-TW
-https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related?hl=zh-CN
+内置了超多被验证过的实用聊天模板库：高仿人类写作，一键生成AI绘画关键词等等等等。
 
 **GPT用中文语音和你互动聊天**
 Chrome安装Talk-to-ChatGPT插件后，立刻实现！
