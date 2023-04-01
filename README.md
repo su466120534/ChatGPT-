@@ -20,7 +20,8 @@ http://t.cn/A6CWiqqY
 Voice Control for ChatGPT
 https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn/related
 
-**chatgpt的提示词生成**：AIPRM for ChatGPT
+**chatgpt的提示词生成**：
+AIPRM for ChatGPT
 https://www.aiprm.com/
 内置了超多被验证过的实用聊天模板库：高仿人类写作，一键生成AI绘画关键词等等等等。：
 chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj/related?hl=zh-TW
@@ -88,3 +89,7 @@ https://chatgptwriter.ai/
 
 **插件合集**
 https://github.com/reorx/awesome-chatgpt-api/blob/master/README.cn.md
+
+如需进ChatGPT学习群，请备注“学习群”
+
+<img width="755" alt="截屏2023-03-29 下午3 21 43" src="https://user-images.githubusercontent.com/24566630/229280236-7d3d7415-fe67-4879-83e2-db4615187122.png">
